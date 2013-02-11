@@ -15,7 +15,7 @@
 * Designers
 * Product Managers
 
-!SLIDE
+!SLIDE left
 
 #How does this work?
 
@@ -24,7 +24,7 @@
 * Current trends in Android Development
 * Our own projects
 
-!SLIDE
+!SLIDE left
 
 #Contact 
 * yegdroid.ca
