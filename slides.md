@@ -2,26 +2,24 @@
 
 !SLIDE
 
-# A Title Slide
-
-## me@example.com
+# Welcome!
 
 !SLIDE
 
-# Some sample code
+# What/Who is this meetup for? 
 
-``` ruby
-def method
-  puts "Hello, World"
-end
-```
+!SLIDE left
 
-!NOTES
-
- * a note
+##Anyone interested in Android Development
+* Developers
+* Designers
+* Product Managers
 
 !SLIDE
 
-# With a Background Image
+#How does this work?
 
-}}} images/test.png
+* Meet every 2nd Monday
+* Anyone can talk/present
+* Current trends in Android Development
+* Our own projects
